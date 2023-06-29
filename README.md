@@ -8,8 +8,5 @@
 3. Web Server
 4. Mysqli 
 
-
-* Dana : [Donasi](https://link.dana.id/minta/2qqd671lqv7)
-
 ## Thanks To
 [Naufal Hidayat](https://wa.me/6281394713563)
